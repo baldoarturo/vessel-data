@@ -1,2 +1,2 @@
-Last run: Fri Jun 26 01:39:24 UTC 2020
-Total lines: 6967 vessel-data.csv
+Last run: Fri Jun 26 06:30:23 UTC 2020
+Total lines: 7077 vessel-data.csv
