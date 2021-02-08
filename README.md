@@ -1,2 +1,2 @@
-Last run: Mon Feb  8 01:29:55 UTC 2021
+Last run: Mon Feb  8 06:05:44 UTC 2021
 Total lines: 7277 vessel-data.csv
